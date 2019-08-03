@@ -1,0 +1,43 @@
+.section-dark {
+    background-color: #011627;
+}
+
+.section-content {
+    max-width: 1400px !important;
+}
+
+.contact-button {
+    color: white; 
+}
+
+.contact-button:hover {
+    background-color: #E2C044 !important;
+}
+
+#home-section {
+    height: 982px;
+}
+
+#hi-text{
+    font-size: 70px;
+}
+
+#name-text{
+    font-size: 100px;
+}
+
+#bio-text{
+    font-size: 30px;
+}
+
+#button {
+    width: 500px;
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#resume-button {
+    color: white;
+    text-decoration: none;
+}

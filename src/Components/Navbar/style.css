@@ -1,0 +1,25 @@
+#navbar {
+    background-color: #011627;
+}
+
+.nav-item {
+    color: white;
+    font-size: 20px;
+}
+
+.nav-item:hover {
+    color: #E2C044;
+}
+
+.nav-content {
+    color: white;
+    max-width: none !important;
+}
+
+.logo-name {
+    font-size: 40px;
+}
+
+.logo-name:hover {
+    color: #E2C044;
+}
